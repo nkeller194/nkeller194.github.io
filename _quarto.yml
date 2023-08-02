@@ -2,10 +2,10 @@ project:
   type: website
     
 website:
-  site-url: https://archaeothommy.github.io/
-  repo-url: https://github.com/archaeothommy/archaeothommy.github.io/
+  site-url: https://nkelller194.github.io/
+  repo-url: https://github.com/nkeller194/nkeller194.github.io/
   favicon: favicon.png
-  title: "Thomas Rose"
+  title: "Niklas Keller"
   navbar:
     left:
       - text: "My research"
