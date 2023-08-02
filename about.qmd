@@ -5,9 +5,9 @@ about:
   template: jolla
   image: profile.png
   links:
-    - icon: researchgate
+    - icon: fa-researchgate
       text: ResearchGate
-      href: 
+      href: https://www.researchgate.net/profile/Niklas-Keller-5
     - icon: github
       text: Github
       href: https://github.com/nkeller194
