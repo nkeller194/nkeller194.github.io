@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Niklas Keller"
 about:
   id: template-area
   template: jolla
@@ -10,33 +10,26 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/nkeller194
 ---
-
-## Tasks for this page
-
-* Update the YAML header. you can check out different layouts of the pre-formatted part at <https://quarto.org/docs/websites/website-about.html#templates>
-* Update the legal information
-* Write a short introduction set of you
-* delete this section
 
 
 :::{#template-area}
 
-Here goes the information to be included in the template. 
+I am a PhD Student at the Georg August University of Göttingen, working in the Department of Sedimentology/Environmental Geology.
 
 :::
 
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Am Satz 8  
-60437 Frankfurt  
+Niklas Keller  
+Maschmühlenweg 19
+37073 Göttingen  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 177 7502275 
+E-Mail: niklas.keller@uni-goettingen.de
 
 ## Privacy
 
