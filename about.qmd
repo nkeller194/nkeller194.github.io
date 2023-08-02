@@ -2,7 +2,7 @@
 title: "Niklas Keller"
 about:
   id: template-area
-  template: jolla
+  template: solana
   image: profile.png
   links:
     - icon: fa-researchgate
